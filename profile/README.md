@@ -1,37 +1,51 @@
 # 👋 Welcome to TechGalary!
 
-<table>
-  <tr>
-    <td width="68%" valign="middle">
-      <h2>Cloud Native • DevOps • Kubernetes • Platform Engineering • DevSecOps</h2>
-      <p>Practical cloud engineering, hands-on projects, and learning resources — by <b>Sowmya Narayan</b>.</p>
-      <p>
-        <a href="https://sowmyanarayan.com">🌐 Website</a> •
-        <a href="https://www.youtube.com/@techgalary/">▶️ YouTube</a> •
-        <a href="https://github.com/techgalary">💻 GitHub</a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/DEVOPS-Platform_Engineering-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps and Platform Engineering"/>
-        <img src="https://img.shields.io/badge/KUBERNETES-Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      </p>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/techgalary/.github/main/profile/sowmya.jpg" width="280" alt="Sowmya Narayan holding DevOps and Kubernetes cards"/>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hey, I'm Sowmya Narayan 👋</h1>
+
+<h2 align="center">
+  <samp>DevOps &amp; Platform Engineer</samp>
+</h2>
+
+<p align="center">
+  <i>Building cloud-native solutions, automating infrastructure, and exploring Kubernetes and DevSecOps.</i>
+</p>
+
+<p align="center">
+  <a href="https://sowmyanarayan.com">
+    <img src="https://img.shields.io/badge/WEBSITE-Visit_TechGalary-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.youtube.com/@techgalary/">
+    <img src="https://img.shields.io/badge/YOUTUBE-TechGalary-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://github.com/techgalary">
+    <img src="https://img.shields.io/badge/GITHUB-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-Cloud_Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/DevSecOps-Secure_Delivery-D24939?style=for-the-badge&logo=sonarqube&logoColor=white" alt="DevSecOps"/>
+</p>
 
 ---
 
 ## 🚀 About TechGalary
 
-TechGalary is my engineering brand for sharing practical knowledge, building cloud-native projects, and exploring modern infrastructure technologies.
-
-I'm Sowmya Narayan, a DevOps and Platform Engineering professional with **10+ years of IT experience, including 8 years in DevOps**.
-
-My work and learning interests span cloud infrastructure, Kubernetes, infrastructure as code, CI/CD, observability, automation, and DevSecOps.
-
-Here you'll find hands-on implementations, technical guides, experiments, and resources designed to connect theory with real-world engineering.
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <p>TechGalary is my engineering brand for sharing practical knowledge, building cloud-native projects, and exploring modern infrastructure technologies.</p>
+      <p>I'm Sowmya Narayan, a DevOps and Platform Engineering professional with <b>10+ years of IT experience, including 8 years in DevOps</b>.</p>
+      <p>My interests span cloud infrastructure, Kubernetes, infrastructure as code, CI/CD, observability, automation, and DevSecOps.</p>
+      <p>Here you'll find hands-on implementations, technical guides, experiments, and resources designed to connect theory with real-world engineering.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/techgalary/.github/main/profile/sowmya.png" width="260" alt="Sowmya holding DevOps and Kubernetes cards"/>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technology Stack
 
