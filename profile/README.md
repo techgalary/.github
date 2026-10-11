@@ -36,7 +36,7 @@
       <p>Here you'll find hands-on implementations, technical guides, experiments, and resources designed to connect theory with real-world engineering.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/techgalary/.github/main/profile/sowmya.png" width="260" alt="Sowmya holding DevOps and Kubernetes cards"/>
+      <img src="https://raw.githubusercontent.com/techgalary/.github/main/profile/sowmya.jpg" width="260" alt="Sowmya holding DevOps and Kubernetes cards"/>
     </td>
   </tr>
 </table>
