@@ -16,7 +16,7 @@
       </p>
     </td>
     <td width="32%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/techgalary/.github/main/profile/sowmya-devops-kubernetes-portrait.jpg" width="280" alt="Sowmya Narayan holding DevOps and Kubernetes cards"/>
+      <img src="https://raw.githubusercontent.com/techgalary/.github/main/profile/sowmya.jpg" width="280" alt="Sowmya Narayan holding DevOps and Kubernetes cards"/>
     </td>
   </tr>
 </table>
