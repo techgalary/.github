@@ -2,24 +2,18 @@
 
 <h1 align="center">Hey, I'm Sowmya Narayan 👋</h1>
 
-<h2 align="center">
-  <samp>DevOps &amp; Platform Engineer</samp>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Platform+Engineer;DevSecOps;Open+Source+Collaborator" alt="DevOps Engineer | Platform Engineer | DevSecOps | Open Source Collaborator" />
+</p>
 
 <p align="center">
   <i>Building cloud-native solutions, automating infrastructure, and exploring Kubernetes and DevSecOps.</i>
 </p>
 
 <p align="center">
-  <a href="https://sowmyanarayan.com">
-    <img src="https://img.shields.io/badge/WEBSITE-Visit_TechGalary-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.youtube.com/@techgalary/">
-    <img src="https://img.shields.io/badge/YOUTUBE-TechGalary-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://github.com/techgalary">
-    <img src="https://img.shields.io/badge/GITHUB-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://sowmyanarayan.com"><img src="https://img.shields.io/badge/WEBSITE-Visit_TechGalary-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.youtube.com/@techgalary/"><img src="https://img.shields.io/badge/YOUTUBE-TechGalary-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://github.com/techgalary"><img src="https://img.shields.io/badge/GITHUB-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
