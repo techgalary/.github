@@ -1,16 +1,29 @@
 # 👋 Welcome to TechGalary!
 
-<h3 align="center">Cloud Native • DevOps • Platform Engineering • DevSecOps</h3>
-
-<p align="center">
-  Practical cloud engineering, hands-on projects, and learning resources — by <b>Sowmya Narayan</b>.
-</p>
-
-<p align="center">
-  <a href="https://sowmyanarayan.com">🌐 Website</a> •
-  <a href="https://www.youtube.com/@techgalary/">▶️ YouTube</a> •
-  <a href="https://github.com/techgalary">💻 GitHub</a>
-</p>
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <h2>Cloud Native • DevOps • Platform Engineering • DevSecOps</h2>
+      <p>Practical cloud engineering, hands-on projects, and learning resources — by <b>Sowmya Narayan</b>.</p>
+      <p>
+        <a href="https://sowmyanarayan.com">🌐 Website</a> •
+        <a href="https://www.youtube.com/@techgalary/">▶️ YouTube</a> •
+        <a href="https://github.com/techgalary">💻 GitHub</a>
+      </p>
+      <p>
+        <a href="https://img.shields.io/badge/DEVOPS-Platform_Engineering-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+          <img src="https://img.shields.io/badge/DEVOPS-Platform_Engineering-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps and Platform Engineering"/>
+        </a>
+        <a href="https://img.shields.io/badge/KUBERNETES-Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+          <img src="https://img.shields.io/badge/KUBERNETES-Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        </a>
+      </p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/techgalary/.github/main/profile/sowmya.gif" width="250" alt="Sowmya with DevOps and Kubernetes cards"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -87,4 +100,3 @@ Visit my YouTube channel for technical content, demonstrations, and practical le
 <p align="center">
   <i>Learn by building. Share what you learn. Grow together.</i>
 </p>
-
